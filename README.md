@@ -7,7 +7,7 @@
 <h2> Certifications </h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity/?msockid=04b11a8a736c68f2282f0fce723e69fb)
-- [CompTIA Security + (Expected 2026)](https://www.comptia.org/en-us/certifications/security/)
+- [CompTIA Security + (Expected 01/2026)](https://www.comptia.org/en-us/certifications/security/)
 
 <h2> 🤳 Connect with me:</h2>
 

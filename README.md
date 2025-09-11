@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Basic_Network_Reconnaissance_Nmap_KaliLinux](https://github.com/Eddycyberboy/Basic_Network_Reconnaissance_Nmap_KaliLinux/tree/main)
 
 <h2> Certifications </h2>
 

@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Basic_Network_Reconnaissance_Nmap_KaliLinux](https://github.com/Eddycyberboy/Basic_Network_Reconnaissance_Nmap_KaliLinux/tree/main)
+  - [Exploiting-Metasploitable2-KaliLinux](https://github.com/Eddycyberboy/Exploiting-Metasploitable2-KaliLinux/tree/main)
 
 <h2> Certifications </h2>
 

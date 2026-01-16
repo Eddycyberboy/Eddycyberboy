@@ -4,13 +4,11 @@
 
   - [Basic_Network_Reconnaissance_Nmap_KaliLinux](https://github.com/Eddycyberboy/Basic_Network_Reconnaissance_Nmap_KaliLinux/tree/main)
   - [Exploiting-Metasploitable2-KaliLinux](https://github.com/Eddycyberboy/Exploiting-Metasploitable2-KaliLinux/tree/main)
+  - [Python made Cybersecurity Quiz](https://dbc-8b71d49f-b539.cloud.databricks.com/editor/queries/405897792073687?o=469397518772765) 
 
 <h2> Data Analytics: </h2>
 
   - [Basic SQL Commands](https://dbc-8b71d49f-b539.cloud.databricks.com/editor/queries/405897792073687?o=469397518772765)
-
-<h2> Python made Cybersecurity Quiz: </h2>
-  - [Basic SQL Commands](https://dbc-8b71d49f-b539.cloud.databricks.com/editor/queries/405897792073687?o=469397518772765) 
 
 <h2> Certifications </h2>
 

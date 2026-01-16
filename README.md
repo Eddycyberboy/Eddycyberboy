@@ -9,6 +9,9 @@
 
   - [Basic SQL Commands](https://dbc-8b71d49f-b539.cloud.databricks.com/editor/queries/405897792073687?o=469397518772765)
 
+<h2> Python made Cybersecurity Quiz: </h2>
+  - [Basic SQL Commands](https://dbc-8b71d49f-b539.cloud.databricks.com/editor/queries/405897792073687?o=469397518772765) 
+
 <h2> Certifications </h2>
 
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity/?msockid=04b11a8a736c68f2282f0fce723e69fb)
